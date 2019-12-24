@@ -1,8 +1,11 @@
-
+*{
+  box-sizing: border-box;
+}
 #root{
   font-family: 'Roboto', sans-serif;
   padding: 20px 60px;
   height: 100vh;
+
 }
 .app{
   height: 100%;
